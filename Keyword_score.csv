@@ -1,0 +1,101 @@
+start_date,end_date,Brands,Audience,Keywords,score
+20/04/20,20/04/20,Mobile Premier League (MPL),Games,Rewards,2.9
+20/04/20,20/04/20,Adda52,Games,Engagement,2.9
+20/04/20,20/04/20,Dream 11,Games,Community based gaming,2.9
+20/04/20,20/04/20,Rummy Circle,Games,Tournament ,1.4
+21/04/20,21/04/20,Mobile Premier League (MPL),Games,Rewards,5.5
+21/04/20,21/04/20,Adda52,Games,Engagement,2.7
+21/04/20,21/04/20,Dream 11,Games,Community based gaming,0.9
+21/04/20,21/04/20,Rummy Circle,Games,Tournament ,0.9
+05/05/20,05/05/20,Mobile Premier League (MPL),Macro,Rewards,2.0
+05/05/20,05/05/20,Adda52,Macro,Engagement,4.0
+05/05/20,05/05/20,Dream 11,Macro,Community based gaming,2.0
+05/05/20,05/05/20,Rummy Circle,Macro,Tournament ,2.0
+15/04/20,15/04/20,Mobile Premier League (MPL),Macro,Rewards,3.6
+15/04/20,15/04/20,Adda52,Macro,Engagement,2.9
+15/04/20,15/04/20,Dream 11,Macro,Community based gaming,2.1
+15/04/20,15/04/20,Rummy Circle,Macro,Tournament ,1.4
+16/04/20,16/04/20,Mobile Premier League (MPL),Macro,Rewards,1.7
+16/04/20,16/04/20,Adda52,Macro,Engagement,3.3
+16/04/20,16/04/20,Dream 11,Macro,Community based gaming,3.3
+16/04/20,16/04/20,Rummy Circle,Macro,Tournament ,1.7
+17/04/20,17/04/20,Mobile Premier League (MPL),Macro,Rewards,2.5
+17/04/20,17/04/20,Adda52,Macro,Engagement,1.2
+17/04/20,17/04/20,Dream 11,Macro,Community based gaming,1.2
+17/04/20,17/04/20,Rummy Circle,Macro,Tournament ,5.0
+19/04/20,19/04/20,Mobile Premier League (MPL),Macro,Rewards,2.9
+19/04/20,19/04/20,Adda52,Macro,Engagement,2.9
+19/04/20,19/04/20,Dream 11,Macro,Community based gaming,2.1
+19/04/20,19/04/20,Rummy Circle,Macro,Tournament ,2.1
+20/04/20,20/04/20,Mobile Premier League (MPL),Macro,Rewards,5.7
+20/04/20,20/04/20,Adda52,Macro,Engagement,0.7
+20/04/20,20/04/20,Dream 11,Macro,Community based gaming,2.1
+20/04/20,20/04/20,Rummy Circle,Macro,Tournament ,1.4
+21/04/20,21/04/20,Mobile Premier League (MPL),Macro,Rewards,6.4
+21/04/20,21/04/20,Adda52,Macro,Engagement,1.8
+21/04/20,21/04/20,Dream 11,Macro,Community based gaming,0.9
+21/04/20,21/04/20,Rummy Circle,Macro,Tournament ,0.9
+22/04/20,22/04/20,Mobile Premier League (MPL),Macro,Rewards,4.0
+22/04/20,22/04/20,Adda52,Macro,Engagement,2.0
+22/04/20,22/04/20,Dream 11,Macro,Community based gaming,2.0
+22/04/20,22/04/20,Rummy Circle,Macro,Tournament ,2.0
+28/04/20,28/04/20,Mobile Premier League (MPL),Macro,Rewards,2.5
+28/04/20,28/04/20,Adda52,Macro,Engagement,2.5
+28/04/20,28/04/20,Dream 11,Macro,Community based gaming,2.5
+28/04/20,28/04/20,Rummy Circle,Macro,Tournament ,2.5
+15/05/20,15/05/20,Mobile Premier League (MPL),Rummy,Rewards,2.0
+15/05/20,15/05/20,Adda52,Rummy,Engagement,2.0
+15/05/20,15/05/20,Dream 11,Rummy,Community based gaming,4.0
+15/05/20,15/05/20,Rummy Circle,Rummy,Tournament ,2.0
+20/04/20,20/04/20,Mobile Premier League (MPL),Rummy,Rewards,2.5
+20/04/20,20/04/20,Adda52,Rummy,Engagement,2.5
+20/04/20,20/04/20,Dream 11,Rummy,Community based gaming,2.5
+20/04/20,20/04/20,Rummy Circle,Rummy,Tournament ,2.5
+21/04/20,21/04/20,Mobile Premier League (MPL),Rummy,Rewards,4.3
+21/04/20,21/04/20,Adda52,Rummy,Engagement,2.9
+21/04/20,21/04/20,Dream 11,Rummy,Community based gaming,1.4
+21/04/20,21/04/20,Rummy Circle,Rummy,Tournament ,1.4
+22/04/20,22/04/20,Mobile Premier League (MPL),Rummy,Rewards,4.0
+22/04/20,22/04/20,Adda52,Rummy,Engagement,2.0
+22/04/20,22/04/20,Dream 11,Rummy,Community based gaming,2.0
+22/04/20,22/04/20,Rummy Circle,Rummy,Tournament ,2.0
+05/05/20,05/05/20,Mobile Premier League (MPL),overall,Rewards,2.0
+05/05/20,05/05/20,Adda52,overall,Engagement,4.0
+05/05/20,05/05/20,Dream 11,overall,Community based gaming,2.0
+05/05/20,05/05/20,Rummy Circle,overall,Tournament ,2.0
+15/04/20,15/04/20,Mobile Premier League (MPL),overall,Rewards,3.6
+15/04/20,15/04/20,Adda52,overall,Engagement,2.9
+15/04/20,15/04/20,Dream 11,overall,Community based gaming,2.1
+15/04/20,15/04/20,Rummy Circle,overall,Tournament ,1.4
+15/05/20,15/05/20,Mobile Premier League (MPL),overall,Rewards,2.0
+15/05/20,15/05/20,Adda52,overall,Engagement,2.0
+15/05/20,15/05/20,Dream 11,overall,Community based gaming,4.0
+15/05/20,15/05/20,Rummy Circle,overall,Tournament ,2.0
+16/04/20,16/04/20,Mobile Premier League (MPL),overall,Rewards,1.7
+16/04/20,16/04/20,Adda52,overall,Engagement,3.3
+16/04/20,16/04/20,Dream 11,overall,Community based gaming,3.3
+16/04/20,16/04/20,Rummy Circle,overall,Tournament ,1.7
+17/04/20,17/04/20,Mobile Premier League (MPL),overall,Rewards,2.5
+17/04/20,17/04/20,Adda52,overall,Engagement,1.2
+17/04/20,17/04/20,Dream 11,overall,Community based gaming,1.2
+17/04/20,17/04/20,Rummy Circle,overall,Tournament ,5.0
+19/04/20,19/04/20,Mobile Premier League (MPL),overall,Rewards,2.9
+19/04/20,19/04/20,Adda52,overall,Engagement,2.9
+19/04/20,19/04/20,Dream 11,overall,Community based gaming,2.1
+19/04/20,19/04/20,Rummy Circle,overall,Tournament ,2.1
+20/04/20,20/04/20,Mobile Premier League (MPL),overall,Rewards,5.3
+20/04/20,20/04/20,Adda52,overall,Engagement,1.2
+20/04/20,20/04/20,Dream 11,overall,Community based gaming,2.4
+20/04/20,20/04/20,Rummy Circle,overall,Tournament ,1.2
+21/04/20,21/04/20,Mobile Premier League (MPL),overall,Rewards,6.7
+21/04/20,21/04/20,Adda52,overall,Engagement,2.4
+21/04/20,21/04/20,Dream 11,overall,Community based gaming,0.5
+21/04/20,21/04/20,Rummy Circle,overall,Tournament ,0.5
+22/04/20,22/04/20,Mobile Premier League (MPL),overall,Rewards,5.0
+22/04/20,22/04/20,Adda52,overall,Engagement,1.7
+22/04/20,22/04/20,Dream 11,overall,Community based gaming,1.7
+22/04/20,22/04/20,Rummy Circle,overall,Tournament ,1.7
+28/04/20,28/04/20,Mobile Premier League (MPL),overall,Rewards,2.5
+28/04/20,28/04/20,Adda52,overall,Engagement,2.5
+28/04/20,28/04/20,Dream 11,overall,Community based gaming,2.5
+28/04/20,28/04/20,Rummy Circle,overall,Tournament ,2.5

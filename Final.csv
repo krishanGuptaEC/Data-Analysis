@@ -1,0 +1,101 @@
+,start_date,end_date,Brands,Audience,unaided_brand_awareness_score,aided_brand_awareness_score,brand_consideration,game_total,Aided_total,brand_total
+0,20/04/20,20/04/20,Mobile Premier League (MPL),Games,2,2,2,6,7,7
+1,20/04/20,20/04/20,Adda52,Games,1,3,2,6,7,7
+2,20/04/20,20/04/20,Dream 11,Games,2,1,2,6,7,7
+3,20/04/20,20/04/20,Rummy Circle,Games,1,1,1,6,7,7
+4,21/04/20,21/04/20,Mobile Premier League (MPL),Games,6,6,6,9,10,9
+5,21/04/20,21/04/20,Adda52,Games,1,2,1,9,10,9
+6,21/04/20,21/04/20,Dream 11,Games,1,1,1,9,10,9
+7,21/04/20,21/04/20,Rummy Circle,Games,1,1,1,9,10,9
+0,05/05/20,05/05/20,Mobile Premier League (MPL),Macro,2,1,1,6,5,5
+1,05/05/20,05/05/20,Adda52,Macro,1,2,2,6,5,5
+2,05/05/20,05/05/20,Dream 11,Macro,1,1,1,6,5,5
+3,05/05/20,05/05/20,Rummy Circle,Macro,2,1,1,6,5,5
+4,15/04/20,15/04/20,Mobile Premier League (MPL),Macro,5,5,5,8,12,10
+5,15/04/20,15/04/20,Adda52,Macro,1,2,3,8,12,10
+6,15/04/20,15/04/20,Dream 11,Macro,1,3,1,8,12,10
+7,15/04/20,15/04/20,Rummy Circle,Macro,1,2,1,8,12,10
+8,16/04/20,16/04/20,Mobile Premier League (MPL),Macro,3,3,2,6,6,8
+9,16/04/20,16/04/20,Adda52,Macro,1,1,2,6,6,8
+10,16/04/20,16/04/20,Dream 11,Macro,1,1,2,6,6,8
+11,16/04/20,16/04/20,Rummy Circle,Macro,1,1,2,6,6,8
+12,17/04/20,17/04/20,Mobile Premier League (MPL),Macro,4,3,2,10,13,12
+13,17/04/20,17/04/20,Adda52,Macro,1,3,3,10,13,12
+14,17/04/20,17/04/20,Dream 11,Macro,2,3,3,10,13,12
+15,17/04/20,17/04/20,Rummy Circle,Macro,3,4,4,10,13,12
+16,19/04/20,19/04/20,Mobile Premier League (MPL),Macro,4,5,6,10,16,14
+17,19/04/20,19/04/20,Adda52,Macro,1,4,2,10,16,14
+18,19/04/20,19/04/20,Dream 11,Macro,4,3,4,10,16,14
+19,19/04/20,19/04/20,Rummy Circle,Macro,1,4,2,10,16,14
+20,20/04/20,20/04/20,Mobile Premier League (MPL),Macro,8,8,8,14,24,18
+21,20/04/20,20/04/20,Adda52,Macro,1,5,3,14,24,18
+22,20/04/20,20/04/20,Dream 11,Macro,2,6,3,14,24,18
+23,20/04/20,20/04/20,Rummy Circle,Macro,3,5,4,14,24,18
+24,21/04/20,21/04/20,Mobile Premier League (MPL),Macro,9,8,8,12,11,11
+25,21/04/20,21/04/20,Adda52,Macro,1,1,1,12,11,11
+26,21/04/20,21/04/20,Dream 11,Macro,1,1,1,12,11,11
+27,21/04/20,21/04/20,Rummy Circle,Macro,1,1,1,12,11,11
+28,22/04/20,22/04/20,Mobile Premier League (MPL),Macro,2,2,2,5,5,5
+29,22/04/20,22/04/20,Adda52,Macro,1,1,1,5,5,5
+30,22/04/20,22/04/20,Dream 11,Macro,1,1,1,5,5,5
+31,22/04/20,22/04/20,Rummy Circle,Macro,1,1,1,5,5,5
+32,28/04/20,28/04/20,Mobile Premier League (MPL),Macro,2,1,1,5,4,4
+33,28/04/20,28/04/20,Adda52,Macro,1,1,1,5,4,4
+34,28/04/20,28/04/20,Dream 11,Macro,1,1,1,5,4,4
+35,28/04/20,28/04/20,Rummy Circle,Macro,1,1,1,5,4,4
+0,15/05/20,15/05/20,Mobile Premier League (MPL),Rummy,1,1,1,6,5,5
+1,15/05/20,15/05/20,Adda52,Rummy,1,1,2,6,5,5
+2,15/05/20,15/05/20,Dream 11,Rummy,3,2,1,6,5,5
+3,15/05/20,15/05/20,Rummy Circle,Rummy,1,1,1,6,5,5
+4,20/04/20,20/04/20,Mobile Premier League (MPL),Rummy,1,1,1,5,4,4
+5,20/04/20,20/04/20,Adda52,Rummy,1,1,1,5,4,4
+6,20/04/20,20/04/20,Dream 11,Rummy,2,1,1,5,4,4
+7,20/04/20,20/04/20,Rummy Circle,Rummy,1,1,1,5,4,4
+8,21/04/20,21/04/20,Mobile Premier League (MPL),Rummy,3,4,3,7,7,7
+9,21/04/20,21/04/20,Adda52,Rummy,1,1,1,7,7,7
+10,21/04/20,21/04/20,Dream 11,Rummy,1,1,2,7,7,7
+11,21/04/20,21/04/20,Rummy Circle,Rummy,2,1,1,7,7,7
+12,22/04/20,22/04/20,Mobile Premier League (MPL),Rummy,2,2,2,5,5,5
+13,22/04/20,22/04/20,Adda52,Rummy,1,1,1,5,5,5
+14,22/04/20,22/04/20,Dream 11,Rummy,1,1,1,5,5,5
+15,22/04/20,22/04/20,Rummy Circle,Rummy,1,1,1,5,5,5
+0,05/05/20,05/05/20,Mobile Premier League (MPL),overall,2,1,1,6,5,5
+1,05/05/20,05/05/20,Adda52,overall,1,2,2,6,5,5
+2,05/05/20,05/05/20,Dream 11,overall,1,1,1,6,5,5
+3,05/05/20,05/05/20,Rummy Circle,overall,2,1,1,6,5,5
+4,15/04/20,15/04/20,Mobile Premier League (MPL),overall,5,5,5,8,12,10
+5,15/04/20,15/04/20,Adda52,overall,1,2,3,8,12,10
+6,15/04/20,15/04/20,Dream 11,overall,1,3,1,8,12,10
+7,15/04/20,15/04/20,Rummy Circle,overall,1,2,1,8,12,10
+8,15/05/20,15/05/20,Mobile Premier League (MPL),overall,1,1,1,6,5,5
+9,15/05/20,15/05/20,Adda52,overall,1,1,2,6,5,5
+10,15/05/20,15/05/20,Dream 11,overall,3,2,1,6,5,5
+11,15/05/20,15/05/20,Rummy Circle,overall,1,1,1,6,5,5
+12,16/04/20,16/04/20,Mobile Premier League (MPL),overall,3,3,2,6,6,8
+13,16/04/20,16/04/20,Adda52,overall,1,1,2,6,6,8
+14,16/04/20,16/04/20,Dream 11,overall,1,1,2,6,6,8
+15,16/04/20,16/04/20,Rummy Circle,overall,1,1,2,6,6,8
+16,17/04/20,17/04/20,Mobile Premier League (MPL),overall,4,3,2,10,13,12
+17,17/04/20,17/04/20,Adda52,overall,1,3,3,10,13,12
+18,17/04/20,17/04/20,Dream 11,overall,2,3,3,10,13,12
+19,17/04/20,17/04/20,Rummy Circle,overall,3,4,4,10,13,12
+20,19/04/20,19/04/20,Mobile Premier League (MPL),overall,4,5,6,10,16,14
+21,19/04/20,19/04/20,Adda52,overall,1,4,2,10,16,14
+22,19/04/20,19/04/20,Dream 11,overall,4,3,4,10,16,14
+23,19/04/20,19/04/20,Rummy Circle,overall,1,4,2,10,16,14
+24,20/04/20,20/04/20,Mobile Premier League (MPL),overall,9,9,9,17,27,21
+25,20/04/20,20/04/20,Adda52,overall,1,7,4,17,27,21
+26,20/04/20,20/04/20,Dream 11,overall,4,6,4,17,27,21
+27,20/04/20,20/04/20,Rummy Circle,overall,3,5,4,17,27,21
+28,21/04/20,21/04/20,Mobile Premier League (MPL),overall,16,16,15,20,20,19
+29,21/04/20,21/04/20,Adda52,overall,1,2,1,20,20,19
+30,21/04/20,21/04/20,Dream 11,overall,1,1,2,20,20,19
+31,21/04/20,21/04/20,Rummy Circle,overall,2,1,1,20,20,19
+32,22/04/20,22/04/20,Mobile Premier League (MPL),overall,3,3,3,6,6,6
+33,22/04/20,22/04/20,Adda52,overall,1,1,1,6,6,6
+34,22/04/20,22/04/20,Dream 11,overall,1,1,1,6,6,6
+35,22/04/20,22/04/20,Rummy Circle,overall,1,1,1,6,6,6
+36,28/04/20,28/04/20,Mobile Premier League (MPL),overall,2,1,1,5,4,4
+37,28/04/20,28/04/20,Adda52,overall,1,1,1,5,4,4
+38,28/04/20,28/04/20,Dream 11,overall,1,1,1,5,4,4
+39,28/04/20,28/04/20,Rummy Circle,overall,1,1,1,5,4,4
